@@ -204,36 +204,3 @@ void printPerfectNumbersInRange(unsigned int start, unsigned int end) {
 	}
 	cout << endl;
 }
-
-//for testing
-int main() {
-	//cout << myPow(2, -2) << endl;
-	
-	//cout << countDigits(-12340) << endl;
-
-	//printGeometricProgression(1, 2, 3);
-
-	//cout << concatenateNumbers(123, 456) << endl;
-	//cout << zad6(9517) << endl;
-
-	//cout << isDivisibleWithoutModule(4, 2) << " " << isDivisibleWithoutModule(5, 3) << endl;
-
-	//1, 0, 1, 1, 0, 0, 0
-	//cout << isValidDate(29, 2, 2020) << " " << isValidDate(29, 2, 1700) << " " << isValidDate(30, 4, 2013) << " "
-		//<< isValidDate(31, 1, 1000) << " " << isValidDate(31, 6, 2013) << " " << isValidDate(0, 3, 2020) << " "
-		//<< isValidDate(1, 15, 2020) << endl;
-
-	//printPerfectNumbersInRange(1, 100); //6 and 28
-
-
-
-
-
-
-
-
-
-
-
-	return 0;
-}
